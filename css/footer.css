@@ -1,0 +1,38 @@
+h3{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-top: 25px;
+    padding-left: 150px;
+    color: azure;
+}
+
+.fcontainer{
+    display: flex;
+    margin: -8px;
+    margin-top: 30px;
+    background-color: rgb(2, 15, 24);
+}
+
+.footer{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 60px;
+    color: azure;
+}
+
+.additionalft{
+    padding-bottom: 30px;
+}
+
+.auto {
+    margin-left: auto;
+    order: 2;
+    padding-top: 30px;
+    padding-right: 80px;
+  }
+
+.logo{  
+    width: 160px;
+    height: auto;
+}
+

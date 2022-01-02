@@ -1,0 +1,52 @@
+.core{
+    margin-top: 60px;
+    font-size: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(2, 15, 24);
+}
+
+.corecon{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 25px;
+}
+
+div.corebg:hover{
+    box-shadow: 0px 15px 15px rgba(0, 0, 255, .2);
+}
+
+.corediv{
+    margin: 30px;
+    border-radius: 25px;
+}
+
+.coreimg{
+    width: 80px;
+    height: 80px;
+    padding-left: 75px;
+    margin-bottom: -50px;
+}
+
+.corebg{
+    background-color: rgb(2, 15, 24);
+    border-radius: 25px;
+    width: 230px;
+    height: 230px;
+}
+
+.corename{
+    color: azure;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.corerole{
+    color: azure;
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
